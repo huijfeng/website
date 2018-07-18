@@ -35,6 +35,13 @@ splicing profile in prostate cancer with RNA-Seq data**, 13th International
 Symposium on Bioinformatics Research and Applications (ISBRA) May 30 -
 June 2, 2017, Honolulu, Hawaii (Selected talk)<br />
 
+**Precise temporal regulation of alternative splicing during neural development**, Post-Transcriptional Gene Regulation-Gordon Research Conference(GRC) July 15-20, 2018, Newry, ME(Poster)<br />
+
+**Characterization of kinase gene expression and
+splicing profile in prostate cancer with RNA-Seq data**, 13th International
+Symposium on Bioinformatics Research and Applications (ISBRA) May 30 -
+June 2, 2017, Honolulu, Hawaii (Selected talk)<br />
+
 **Characterization of kinase gene expression and
 splicing profile in prostate cancer with RNA-Seq data**, 5th RECOMB Satellite
 Workshop on Computational Cancer Biology (RECOMB-CCB 2016), April 16-
