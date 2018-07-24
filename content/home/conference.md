@@ -30,10 +30,6 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 +++
-**Characterization of kinase gene expression and
-splicing profile in prostate cancer with RNA-Seq data**, 13th International
-Symposium on Bioinformatics Research and Applications (ISBRA) May 30 -
-June 2, 2017, Honolulu, Hawaii (Selected talk)<br />
 
 **Precise temporal regulation of alternative splicing during neural development**, Post-Transcriptional Gene Regulation-Gordon Research Conference(GRC) July 15-20, 2018, Newry, ME(Poster)<br />
 
@@ -55,10 +51,10 @@ Cold Spring Harbor meeting on Eukaryotic mRNA Processing, August 18-22,
 **Differential alternative splicing identification in
 kinome and phosphatome in prostate cancer from RNA-Seq data**, 17th
 Annual International Conference on Research in Computational Molecular
-Biology (RECOMB 2013), April 11-12, 2013, Beijing, China (poster)<br />
+Biology (RECOMB 2013), April 11-12, 2013, Beijing, China (Poster)<br />
 
 **Differential alternative splicing identification in
 kinome and phosphatome in prostate cancer from RNA-Seq data**, Cold
 Spring Harbor Asia Conference on High Throughput Biology - Genomics and
-Epigenomics, October 15-19, 2012, Suzhou, China (poster)<br />
+Epigenomics, October 15-19, 2012, Suzhou, China (Poster)<br />
 
