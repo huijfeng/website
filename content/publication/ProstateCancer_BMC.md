@@ -17,7 +17,7 @@ date = 2018-01-29T00:00:00
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "bioRxiv, 061085, BMC genomics, in press"
+publication = "BMC Genomics 2018 19:4925"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
@@ -37,8 +37,8 @@ selected = false
 # projects = ["example-external-project.md"]
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/early/2016/06/29/061085"
-# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4925-1"
+url_preprint = "https://www.biorxiv.org/content/early/2016/06/29/061085"
 #url_code = "https://github.com/chaolinzhanglab/mrin"
 # url_dataset = "#"
 # url_project = "#"
