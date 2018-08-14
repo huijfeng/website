@@ -17,7 +17,7 @@ date = 2018-01-29T00:00:00
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BMC Genomics 2018 19:4925"
+publication = "BMC Genomics 19:4925"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
