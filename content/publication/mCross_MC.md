@@ -1,6 +1,6 @@
 +++
 title = "Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites"
-date = 2015-08-03T00:00:00
+date = 2019-08-03T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 #authors = ["GA Cushen", "MS Nixon"]
@@ -60,7 +60,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # [header]
- image = "mRIN_fig2.jpg"
+ image = "mCross_abstract.jpg"
 # caption = "My caption :smile:"
 
 +++

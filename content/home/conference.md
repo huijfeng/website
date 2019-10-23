@@ -37,7 +37,7 @@ Cold Spring Harbor meeting on Eukaryotic mRNA Processing, August 20-24,
 
 **Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites**,
 Annual Retreat of Department of Systems Biology of Columbia University, Octorber 5,
-2018, NY (SPoster)<br />
+2018, NY (Poster)<br />
 
 **Precise temporal regulation of alternative splicing during neural development**,
 Post-Transcriptional Gene Regulation-Gordon Research Conference(GRC) July 15-20, 2018, Newry, ME(Poster)<br />
