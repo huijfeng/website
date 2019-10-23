@@ -15,7 +15,7 @@ weight = 5
     "Alternative Splicing",
     "RNA biology",
     "Protein-RNA interaction",
-    "Neural diversity"
+    "Neuronal diversity"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -30,6 +30,7 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 +++
+* Best poster award in the annual retreat of Department of Systems Biology of Columbia Univesity, 10/2018 <br />
 * Tsinghua University Excellent PhD Dissertation, 07/2016 <br />
 * Tsinghua University Outstanding Graduate, 07/2016 <br />
 * CSC Scholarship, 2015-2016 <br />

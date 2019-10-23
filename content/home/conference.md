@@ -31,7 +31,16 @@ filter_default = 0
 
 +++
 
-**Precise temporal regulation of alternative splicing during neural development**, Post-Transcriptional Gene Regulation-Gordon Research Conference(GRC) July 15-20, 2018, Newry, ME(Poster)<br />
+**Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites**,
+Cold Spring Harbor meeting on Eukaryotic mRNA Processing, August 20-24,
+2019, Cold Spring Harbor, NY (Selected talk)<br />
+
+**Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites**,
+Annual Retreat of Department of Systems Biology of Columbia University, Octorber 5,
+2018, NY (SPoster)<br />
+
+**Precise temporal regulation of alternative splicing during neural development**,
+Post-Transcriptional Gene Regulation-Gordon Research Conference(GRC) July 15-20, 2018, Newry, ME(Poster)<br />
 
 **Characterization of kinase gene expression and
 splicing profile in prostate cancer with RNA-Seq data**, 13th International
